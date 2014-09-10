@@ -4,4 +4,4 @@ This is source code which submitted in [AOJ](http://judge.u-aizu.ac.jp/onlinejud
 
 ## Problem
 
-* [100](https://github.com/wkmkymt/AOJ/100)
+* [100](https://github.com/wkmkymt/AOJ/tree/master/100)
