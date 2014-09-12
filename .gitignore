@@ -1,1 +1,5 @@
 a.out
+app
+Makefile
+*.in
+*.out
